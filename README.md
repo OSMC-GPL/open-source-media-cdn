@@ -12,4 +12,4 @@
  
  BTC: 37vidNC19YMsoa8ydbMfmsLm9VxwRwDQf2
  
- Any hardware or software sponsers are welcome please contact osmc@mail.ee
+ Any hardware or software sponsors are welcome please contact osmc@mail.ee
